@@ -32,7 +32,7 @@ to ensure that "simpleTopic" got created,
 run: kafka-topics.sh --list --zookeeper localhost:2181  (simpleTopic is return from the list).
 
 
-Once the topic is create, we are ready dump a simple message on it from node-kafka producer:
+Once the topic is created, we are ready dump a simple message on to it from the node-kafka producer:
 
 run the following commands:
 
