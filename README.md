@@ -32,9 +32,10 @@ Once the topic is create, we are ready dump a simple message on it from node-kaf
 run the following commands:
 
 cd node-kafka-producer
-npm install
-node simple-producer.js send simple message to kafka!
 
+npm install
+
+node simple-producer.js send simple message to kafka!
 
 
 now, to see the message get picked up from the consumer side, we need to run the java consumer to consume the message
