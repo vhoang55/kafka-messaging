@@ -10,13 +10,18 @@ Consumer is a simple java class that pulls the message off the topic.
 Pre-requisites:
 
 Install NodeJs
+
 Install kafka
 
 https://kafka.apache.org/quickstart
 
 *start zookeeper
+
 *start kafka
+
 *create a "simpleTopic" by running the following command:
+
+
 
 cd into KAFKA_INSTALLATION_DIR/bin
 
